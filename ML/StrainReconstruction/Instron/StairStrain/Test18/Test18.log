@@ -1,0 +1,20 @@
+21/01/2023,16:28:34,StairStrain,Test18,60101,Log File Created
+21/01/2023,16:28:34,StairStrain,Test18,60104,Software Version,2.1.20079.01
+21/01/2023,16:28:34,StairStrain,Test18,60105,Console Version,10.2.20286.1
+21/01/2023,16:28:34,StairStrain,Test18,60106,Controller Version,24.01.20210712
+21/01/2023,16:28:34,StairStrain,Test18,60107,User Name,Uni Balgrist
+21/01/2023,16:28:34,StairStrain,Test18,60108,Computer Name,DESKTOP-5944NRF
+21/01/2023,16:28:34,StairStrain,Test18,60109,System Name,
+21/01/2023,16:28:34,StairStrain,Test18,60110,Frame Serial Number (System ID),E3LMTM2523
+21/01/2023,16:28:34,StairStrain,Test18,60110,Test Started
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:30:52,StairStrain,Test18,60200,Test Status,Test Ended Normally
+21/01/2023,16:30:52,StairStrain,Test18,60120,Total Time,137.108
+21/01/2023,16:30:52,StairStrain,Test18,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:30:52,StairStrain,Test18,62000,SHA-256,Test18.steps.tracking.csv,F1803A6EB64708E7D588E41872B3AA39D916D1FD2DAE8CCF32141AD77099C7DD
+21/01/2023,16:30:52,StairStrain,Test18,62000,SHA-256,Test18.Stop.csv,5A8CA51B5198C40572BE58AD8ABD1A99FD47DD1F31BFCF177AC5BED02E521CD8
+21/01/2023,16:30:52,StairStrain,Test18,60112,Test Finished
+21/01/2023,16:30:52,StairStrain,Test18,60103,Closed

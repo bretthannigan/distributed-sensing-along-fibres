@@ -1,0 +1,572 @@
+21/01/2023,15:39:04,StairStrain,,60101,Log File Created
+21/01/2023,15:39:04,StairStrain,,60104,Software Version,2.1.20079.01
+21/01/2023,15:39:04,StairStrain,,60105,Console Version,10.2.20286.1
+21/01/2023,15:39:04,StairStrain,,60106,Controller Version,24.01.20210712
+21/01/2023,15:39:04,StairStrain,,60107,User Name,Uni Balgrist
+21/01/2023,15:39:04,StairStrain,,60108,Computer Name,DESKTOP-5944NRF
+21/01/2023,15:39:04,StairStrain,,60109,System Name,
+21/01/2023,15:39:04,StairStrain,,60110,Frame Serial Number (System ID),E3LMTM2523
+21/01/2023,15:41:47,StairStrain,Test1,60110,Test Started
+21/01/2023,15:41:47,StairStrain,Test1,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:41:47,StairStrain,Test1,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:41:47,StairStrain,Test1,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:41:47,StairStrain,Test1,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:42:44,StairStrain,Test1,60205,Test Status,Test Ended by User
+21/01/2023,15:42:44,StairStrain,Test1,60120,Total Time,56.831
+21/01/2023,15:42:44,StairStrain,Test1,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:42:44,StairStrain,Test1,60122,Step,9,Step 9
+21/01/2023,15:42:44,StairStrain,Test1,62000,SHA-256,Test1.steps.tracking.csv,C565355348549C3C3BF5200DCA7720B459A62CB5FD305A6EDC0F5701EE9D90C4
+21/01/2023,15:42:44,StairStrain,Test1,62000,SHA-256,Test1.Stop.csv,C565355348549C3C3BF5200DCA7720B459A62CB5FD305A6EDC0F5701EE9D90C4
+21/01/2023,15:42:44,StairStrain,Test1,60112,Test Finished
+21/01/2023,15:42:47,StairStrain,Test2,60110,Test Started
+21/01/2023,15:42:47,StairStrain,Test2,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:42:47,StairStrain,Test2,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:42:47,StairStrain,Test2,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:42:47,StairStrain,Test2,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:42:54,StairStrain,Test2,60205,Test Status,Test Ended by User
+21/01/2023,15:42:54,StairStrain,Test2,60120,Total Time,6.399
+21/01/2023,15:42:54,StairStrain,Test2,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:42:54,StairStrain,Test2,60122,Step,2,Step 2
+21/01/2023,15:42:54,StairStrain,Test2,62000,SHA-256,Test2.steps.tracking.csv,509920815EDA0E7149A12E8CC04D5F47794BDDF74681D96688A2CFFE96E3C78C
+21/01/2023,15:42:54,StairStrain,Test2,62000,SHA-256,Test2.Stop.csv,509920815EDA0E7149A12E8CC04D5F47794BDDF74681D96688A2CFFE96E3C78C
+21/01/2023,15:42:54,StairStrain,Test2,60112,Test Finished
+21/01/2023,15:44:11,StairStrain,Test3,60110,Test Started
+21/01/2023,15:44:11,StairStrain,Test3,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:44:11,StairStrain,Test3,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:44:11,StairStrain,Test3,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:44:11,StairStrain,Test3,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:46:28,StairStrain,Test3,60200,Test Status,Test Ended Normally
+21/01/2023,15:46:28,StairStrain,Test3,60120,Total Time,136.959
+21/01/2023,15:46:28,StairStrain,Test3,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:46:28,StairStrain,Test3,62000,SHA-256,Test3.steps.tracking.csv,211ABC75FC6A262F3BBDAE27E1D70159949AAA7879A08EB3415B2BEB90C6028D
+21/01/2023,15:46:28,StairStrain,Test3,62000,SHA-256,Test3.Stop.csv,B2ADABE905C88310BC362C43DADD0FE2770D16248D69644C6B0FF55BEE7D80F2
+21/01/2023,15:46:28,StairStrain,Test3,60112,Test Finished
+21/01/2023,15:48:25,StairStrain,Test4,60110,Test Started
+21/01/2023,15:48:25,StairStrain,Test4,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:48:25,StairStrain,Test4,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:48:25,StairStrain,Test4,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:48:25,StairStrain,Test4,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:50:42,StairStrain,Test4,60200,Test Status,Test Ended Normally
+21/01/2023,15:50:42,StairStrain,Test4,60120,Total Time,136.959
+21/01/2023,15:50:42,StairStrain,Test4,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:50:42,StairStrain,Test4,62000,SHA-256,Test4.steps.tracking.csv,CEFDE8071328E97C468C82FB911F2D2A374ECBBF5F43FD0EDE0DAC3EE2202CD9
+21/01/2023,15:50:42,StairStrain,Test4,62000,SHA-256,Test4.Stop.csv,C53A9D04D0799758825CEA67F4BF6B7C566D29A110D211BAF32A41DEFF38E491
+21/01/2023,15:50:42,StairStrain,Test4,60112,Test Finished
+21/01/2023,15:51:16,StairStrain,Test5,60110,Test Started
+21/01/2023,15:51:16,StairStrain,Test5,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:51:16,StairStrain,Test5,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:51:16,StairStrain,Test5,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:51:16,StairStrain,Test5,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:53:33,StairStrain,Test5,60200,Test Status,Test Ended Normally
+21/01/2023,15:53:33,StairStrain,Test5,60120,Total Time,137.09
+21/01/2023,15:53:33,StairStrain,Test5,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:53:33,StairStrain,Test5,62000,SHA-256,Test5.steps.tracking.csv,9CAB14603CC8B497F2BCCCCFB52016F22EE3FB2B8A7479CB6990540569DFD882
+21/01/2023,15:53:33,StairStrain,Test5,62000,SHA-256,Test5.Stop.csv,637A8B82ADDDEE3D916455988210B4BCE3E98A78F6DF5920174BF83C2C7DAB7E
+21/01/2023,15:53:33,StairStrain,Test5,60112,Test Finished
+21/01/2023,15:54:06,StairStrain,Test6,60110,Test Started
+21/01/2023,15:54:06,StairStrain,Test6,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:54:06,StairStrain,Test6,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:54:06,StairStrain,Test6,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:54:06,StairStrain,Test6,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:56:23,StairStrain,Test6,60200,Test Status,Test Ended Normally
+21/01/2023,15:56:23,StairStrain,Test6,60120,Total Time,136.959
+21/01/2023,15:56:23,StairStrain,Test6,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:56:23,StairStrain,Test6,62000,SHA-256,Test6.steps.tracking.csv,677035D59F0FC5C149B06616A091874A936E6E6916AA9A2A0CB7B20EF7A7A0B3
+21/01/2023,15:56:23,StairStrain,Test6,62000,SHA-256,Test6.Stop.csv,EFBDC20F35AEF8C0D1E9C861BA18E16C82C61C0FF7D7BEE4E39EE61F99F8DD65
+21/01/2023,15:56:23,StairStrain,Test6,60112,Test Finished
+21/01/2023,15:56:45,StairStrain,Test7,60110,Test Started
+21/01/2023,15:56:46,StairStrain,Test7,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:56:46,StairStrain,Test7,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:56:46,StairStrain,Test7,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:56:46,StairStrain,Test7,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:59:03,StairStrain,Test7,60200,Test Status,Test Ended Normally
+21/01/2023,15:59:03,StairStrain,Test7,60120,Total Time,136.959
+21/01/2023,15:59:03,StairStrain,Test7,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,15:59:03,StairStrain,Test7,62000,SHA-256,Test7.steps.tracking.csv,1E9AE0E701E500A49D413BA38B01FAB9788C9E0A92AEBFDABAF1DA707BA6599C
+21/01/2023,15:59:03,StairStrain,Test7,62000,SHA-256,Test7.Stop.csv,4836FB4FADCEB3095836A570E3B3A3134E0DAA779BF0EE81CDA19740A8E1B244
+21/01/2023,15:59:03,StairStrain,Test7,60112,Test Finished
+21/01/2023,15:59:41,StairStrain,Test8,60110,Test Started
+21/01/2023,15:59:41,StairStrain,Test8,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,15:59:41,StairStrain,Test8,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,15:59:41,StairStrain,Test8,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,15:59:41,StairStrain,Test8,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:01:59,StairStrain,Test8,60200,Test Status,Test Ended Normally
+21/01/2023,16:01:59,StairStrain,Test8,60120,Total Time,136.959
+21/01/2023,16:01:59,StairStrain,Test8,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:01:59,StairStrain,Test8,62000,SHA-256,Test8.steps.tracking.csv,7259CFD56365151A3326336A68D0BC9537803FC45D7739C483C0741060ADC4B5
+21/01/2023,16:01:59,StairStrain,Test8,62000,SHA-256,Test8.Stop.csv,7D04F9573A25DCD79585BBC916E031B52DD4FAC20F087D17F4D51FADF0D09A43
+21/01/2023,16:01:59,StairStrain,Test8,60112,Test Finished
+21/01/2023,16:03:00,StairStrain,Test9,60110,Test Started
+21/01/2023,16:03:00,StairStrain,Test9,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:03:00,StairStrain,Test9,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:03:00,StairStrain,Test9,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:03:00,StairStrain,Test9,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:05:17,StairStrain,Test9,60200,Test Status,Test Ended Normally
+21/01/2023,16:05:17,StairStrain,Test9,60120,Total Time,136.959
+21/01/2023,16:05:17,StairStrain,Test9,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:05:17,StairStrain,Test9,62000,SHA-256,Test9.steps.tracking.csv,2C6B10D73BC0810BAA2119DAD47E7731F11FB8A97F858920439872CC28ECEB11
+21/01/2023,16:05:17,StairStrain,Test9,62000,SHA-256,Test9.Stop.csv,A2727A1CB9A4A5D00E7C01B65F69E46617C43BE7B658C0E60304F555259F8642
+21/01/2023,16:05:17,StairStrain,Test9,60112,Test Finished
+21/01/2023,16:05:55,StairStrain,Test10,60110,Test Started
+21/01/2023,16:05:55,StairStrain,Test10,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:05:55,StairStrain,Test10,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:05:56,StairStrain,Test10,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:05:56,StairStrain,Test10,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:08:13,StairStrain,Test10,60200,Test Status,Test Ended Normally
+21/01/2023,16:08:13,StairStrain,Test10,60120,Total Time,136.959
+21/01/2023,16:08:13,StairStrain,Test10,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:08:13,StairStrain,Test10,62000,SHA-256,Test10.steps.tracking.csv,65F71E1A5C74626077C05BA6FF245ED567A0E15FED9CBB1E7A922946B844F0C8
+21/01/2023,16:08:13,StairStrain,Test10,62000,SHA-256,Test10.Stop.csv,636B2F5E04A0005ADF764B2D745B56C29DD96D3E88CFE3715304781A375030A5
+21/01/2023,16:08:13,StairStrain,Test10,60112,Test Finished
+21/01/2023,16:08:49,StairStrain,Test11,60110,Test Started
+21/01/2023,16:08:49,StairStrain,Test11,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:08:49,StairStrain,Test11,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:08:49,StairStrain,Test11,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:08:49,StairStrain,Test11,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:11:06,StairStrain,Test11,60200,Test Status,Test Ended Normally
+21/01/2023,16:11:06,StairStrain,Test11,60120,Total Time,137.07
+21/01/2023,16:11:06,StairStrain,Test11,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:11:06,StairStrain,Test11,62000,SHA-256,Test11.steps.tracking.csv,BE293175D2596AA6E9EBBFA1482283BCCF21FA4369E2F6F5A7D13CAAB4AD0E9F
+21/01/2023,16:11:06,StairStrain,Test11,62000,SHA-256,Test11.Stop.csv,D83A40690344699A055F427D0C289B1B939C67D40BF1F4A9C13421FE9E97E7D4
+21/01/2023,16:11:06,StairStrain,Test11,60112,Test Finished
+21/01/2023,16:11:36,StairStrain,Test12,60110,Test Started
+21/01/2023,16:11:36,StairStrain,Test12,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:11:36,StairStrain,Test12,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:11:36,StairStrain,Test12,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:11:36,StairStrain,Test12,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:13:53,StairStrain,Test12,60200,Test Status,Test Ended Normally
+21/01/2023,16:13:53,StairStrain,Test12,60120,Total Time,136.959
+21/01/2023,16:13:53,StairStrain,Test12,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:13:53,StairStrain,Test12,62000,SHA-256,Test12.steps.tracking.csv,28AF46B22B6BFD2F42D00FCE84B09F0B3E6304C4A67C6E813B90722C431ABE59
+21/01/2023,16:13:53,StairStrain,Test12,62000,SHA-256,Test12.Stop.csv,C0AB6F4EC863415ADABF9D9B78CB7358B7EF0F76D266F88EA66FF324A60EE9A8
+21/01/2023,16:13:53,StairStrain,Test12,60112,Test Finished
+21/01/2023,16:14:32,StairStrain,Test13,60110,Test Started
+21/01/2023,16:14:32,StairStrain,Test13,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:14:32,StairStrain,Test13,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:14:32,StairStrain,Test13,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:14:32,StairStrain,Test13,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:16:49,StairStrain,Test13,60200,Test Status,Test Ended Normally
+21/01/2023,16:16:49,StairStrain,Test13,60120,Total Time,137.087
+21/01/2023,16:16:49,StairStrain,Test13,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:16:49,StairStrain,Test13,62000,SHA-256,Test13.steps.tracking.csv,4652E38A06A44E913F5A740C5669804F3BF281C4990DB334F1830B83F81BBA3E
+21/01/2023,16:16:49,StairStrain,Test13,62000,SHA-256,Test13.Stop.csv,736A0042238CF4F944C31BC2ABD7080780C028711BDE33BB612C2FE047F87BD2
+21/01/2023,16:16:49,StairStrain,Test13,60112,Test Finished
+21/01/2023,16:17:10,StairStrain,Test14,60110,Test Started
+21/01/2023,16:17:10,StairStrain,Test14,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:17:11,StairStrain,Test14,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:17:11,StairStrain,Test14,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:17:11,StairStrain,Test14,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:19:28,StairStrain,Test14,60200,Test Status,Test Ended Normally
+21/01/2023,16:19:28,StairStrain,Test14,60120,Total Time,136.959
+21/01/2023,16:19:28,StairStrain,Test14,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:19:28,StairStrain,Test14,62000,SHA-256,Test14.steps.tracking.csv,53785F7668EE1874576AACEC393BAE798F7B1DD1C41B65F9881BE17B78632AF4
+21/01/2023,16:19:28,StairStrain,Test14,62000,SHA-256,Test14.Stop.csv,F279014CCC8E8EB6339AE94F9CBE497769F0D9BF80449EE0CEFC0682B34E0317
+21/01/2023,16:19:28,StairStrain,Test14,60112,Test Finished
+21/01/2023,16:20:11,StairStrain,Test15,60110,Test Started
+21/01/2023,16:20:11,StairStrain,Test15,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:20:11,StairStrain,Test15,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:20:11,StairStrain,Test15,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:20:11,StairStrain,Test15,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:22:28,StairStrain,Test15,60200,Test Status,Test Ended Normally
+21/01/2023,16:22:28,StairStrain,Test15,60120,Total Time,137.067
+21/01/2023,16:22:28,StairStrain,Test15,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:22:28,StairStrain,Test15,62000,SHA-256,Test15.steps.tracking.csv,E9DB2CFCAACC46045989AA5C67469D853F6A2A7F43BB4D9E3917F41B70DF064B
+21/01/2023,16:22:28,StairStrain,Test15,62000,SHA-256,Test15.Stop.csv,39796AC912FAB2EC345C61CABFF1F755FA6EE931050B6A3190D24CB34805C1B6
+21/01/2023,16:22:28,StairStrain,Test15,60112,Test Finished
+21/01/2023,16:23:03,StairStrain,Test16,60110,Test Started
+21/01/2023,16:23:03,StairStrain,Test16,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:23:03,StairStrain,Test16,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:23:03,StairStrain,Test16,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:23:03,StairStrain,Test16,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:25:20,StairStrain,Test16,60200,Test Status,Test Ended Normally
+21/01/2023,16:25:21,StairStrain,Test16,60120,Total Time,136.959
+21/01/2023,16:25:21,StairStrain,Test16,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:25:21,StairStrain,Test16,62000,SHA-256,Test16.steps.tracking.csv,402F7B72333AFC82B8EB8AAA424978EA73F7B4AB23D5923BDFD061A59C9A03B6
+21/01/2023,16:25:21,StairStrain,Test16,62000,SHA-256,Test16.Stop.csv,1CF268550979A3FEEB0600D7ABF8E8F2E85122851992606F0339A1FF3EED7A23
+21/01/2023,16:25:21,StairStrain,Test16,60112,Test Finished
+21/01/2023,16:25:55,StairStrain,Test17,60110,Test Started
+21/01/2023,16:25:55,StairStrain,Test17,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:25:55,StairStrain,Test17,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:25:55,StairStrain,Test17,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:25:55,StairStrain,Test17,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:28:12,StairStrain,Test17,60200,Test Status,Test Ended Normally
+21/01/2023,16:28:12,StairStrain,Test17,60120,Total Time,137.062
+21/01/2023,16:28:12,StairStrain,Test17,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:28:12,StairStrain,Test17,62000,SHA-256,Test17.steps.tracking.csv,8F810641B6948A306E3D0EFD5EA0FF1B589986577BEACCC3A775CCFB87F6A95F
+21/01/2023,16:28:12,StairStrain,Test17,62000,SHA-256,Test17.Stop.csv,4A6F024AFE37A6253F3E7E7096F72EB9AA9FA9AA4FF38C41F474CD80A5B00122
+21/01/2023,16:28:12,StairStrain,Test17,60112,Test Finished
+21/01/2023,16:28:34,StairStrain,Test18,60110,Test Started
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:28:34,StairStrain,Test18,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:30:52,StairStrain,Test18,60200,Test Status,Test Ended Normally
+21/01/2023,16:30:52,StairStrain,Test18,60120,Total Time,137.108
+21/01/2023,16:30:52,StairStrain,Test18,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:30:52,StairStrain,Test18,62000,SHA-256,Test18.steps.tracking.csv,F1803A6EB64708E7D588E41872B3AA39D916D1FD2DAE8CCF32141AD77099C7DD
+21/01/2023,16:30:52,StairStrain,Test18,62000,SHA-256,Test18.Stop.csv,5A8CA51B5198C40572BE58AD8ABD1A99FD47DD1F31BFCF177AC5BED02E521CD8
+21/01/2023,16:30:52,StairStrain,Test18,60112,Test Finished
+21/01/2023,16:31:08,StairStrain,Test19,60110,Test Started
+21/01/2023,16:31:08,StairStrain,Test19,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:31:08,StairStrain,Test19,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:31:08,StairStrain,Test19,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:31:08,StairStrain,Test19,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:33:25,StairStrain,Test19,60200,Test Status,Test Ended Normally
+21/01/2023,16:33:25,StairStrain,Test19,60120,Total Time,136.959
+21/01/2023,16:33:25,StairStrain,Test19,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:33:25,StairStrain,Test19,62000,SHA-256,Test19.steps.tracking.csv,923B5BAEBA1429CE78569C3E7EAB2C28088A1E0E115DE816870042A5B26572F0
+21/01/2023,16:33:25,StairStrain,Test19,62000,SHA-256,Test19.Stop.csv,D762AC65B7F80224594CA956B939E0FC24E17A8B382C5A9FC8DC291B84F5DB87
+21/01/2023,16:33:25,StairStrain,Test19,60112,Test Finished
+21/01/2023,16:34:06,StairStrain,Test20,60110,Test Started
+21/01/2023,16:34:06,StairStrain,Test20,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:34:06,StairStrain,Test20,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:34:06,StairStrain,Test20,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:34:06,StairStrain,Test20,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:36:23,StairStrain,Test20,60200,Test Status,Test Ended Normally
+21/01/2023,16:36:23,StairStrain,Test20,60120,Total Time,136.959
+21/01/2023,16:36:23,StairStrain,Test20,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:36:23,StairStrain,Test20,62000,SHA-256,Test20.steps.tracking.csv,F6FEF04DCD573AD9FB9E12685721B36E9EE2BB837712B3E5F078631B8D3EAEFF
+21/01/2023,16:36:23,StairStrain,Test20,62000,SHA-256,Test20.Stop.csv,18162311F138E56E5D468D8D46B15B58B014AB3DB583F1BBC4EF0E3CB9C4D4B0
+21/01/2023,16:36:23,StairStrain,Test20,60112,Test Finished
+21/01/2023,16:37:40,StairStrain,Test21,60110,Test Started
+21/01/2023,16:37:40,StairStrain,Test21,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:37:40,StairStrain,Test21,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:37:40,StairStrain,Test21,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:37:40,StairStrain,Test21,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:39:57,StairStrain,Test21,60200,Test Status,Test Ended Normally
+21/01/2023,16:39:57,StairStrain,Test21,60120,Total Time,136.959
+21/01/2023,16:39:57,StairStrain,Test21,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:39:57,StairStrain,Test21,62000,SHA-256,Test21.steps.tracking.csv,F62CB9C470D8468D442DA583B25D1BC41F427E081196C58D772DF2748B59C722
+21/01/2023,16:39:57,StairStrain,Test21,62000,SHA-256,Test21.Stop.csv,BC3743428424BD1EC3BC634CE7E3D96DFF55ED60637EAC512A500ECCF59AE6D6
+21/01/2023,16:39:57,StairStrain,Test21,60112,Test Finished
+21/01/2023,16:40:16,StairStrain,Test22,60110,Test Started
+21/01/2023,16:40:16,StairStrain,Test22,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:40:16,StairStrain,Test22,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:40:16,StairStrain,Test22,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:40:16,StairStrain,Test22,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:42:33,StairStrain,Test22,60200,Test Status,Test Ended Normally
+21/01/2023,16:42:33,StairStrain,Test22,60120,Total Time,136.959
+21/01/2023,16:42:33,StairStrain,Test22,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:42:33,StairStrain,Test22,62000,SHA-256,Test22.steps.tracking.csv,23AB4A7D9092EFFDAC0E09BDCFD3FD5E71F67B4AA88B8032955CF7F45EFD307A
+21/01/2023,16:42:33,StairStrain,Test22,62000,SHA-256,Test22.Stop.csv,E31A9AF64CB7A540FA42661EB8A87D8D377743AF5081F60CB37450C3F5A71670
+21/01/2023,16:42:33,StairStrain,Test22,60112,Test Finished
+21/01/2023,16:42:52,StairStrain,Test23,60110,Test Started
+21/01/2023,16:42:52,StairStrain,Test23,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:42:52,StairStrain,Test23,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:42:52,StairStrain,Test23,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:42:52,StairStrain,Test23,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:45:09,StairStrain,Test23,60200,Test Status,Test Ended Normally
+21/01/2023,16:45:09,StairStrain,Test23,60120,Total Time,136.959
+21/01/2023,16:45:09,StairStrain,Test23,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:45:09,StairStrain,Test23,62000,SHA-256,Test23.steps.tracking.csv,2E5BBC284040DCF06E86A124BECE7E4B1AB1D181DB9657CA0B2D0BDCFF888F7B
+21/01/2023,16:45:09,StairStrain,Test23,62000,SHA-256,Test23.Stop.csv,10A558AE98FAFB1E090D6E49467A6ADB15D155D8A37D700595B5BD30644C40E1
+21/01/2023,16:45:09,StairStrain,Test23,60112,Test Finished
+21/01/2023,16:46:11,StairStrain,Test24,60110,Test Started
+21/01/2023,16:46:11,StairStrain,Test24,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:46:11,StairStrain,Test24,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:46:11,StairStrain,Test24,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:46:11,StairStrain,Test24,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:48:28,StairStrain,Test24,60200,Test Status,Test Ended Normally
+21/01/2023,16:48:28,StairStrain,Test24,60120,Total Time,136.959
+21/01/2023,16:48:28,StairStrain,Test24,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:48:28,StairStrain,Test24,62000,SHA-256,Test24.steps.tracking.csv,2A81C491DA90B9628CE9D56214DEF0D51740A0CE8A349ADA80A76B524504DD7B
+21/01/2023,16:48:28,StairStrain,Test24,62000,SHA-256,Test24.Stop.csv,803A0E906F036886F5A6DBB652DB1CCA0965936D2D70670B9C4D8630D8234FE8
+21/01/2023,16:48:28,StairStrain,Test24,60112,Test Finished
+21/01/2023,16:48:57,StairStrain,Test25,60110,Test Started
+21/01/2023,16:48:57,StairStrain,Test25,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:48:57,StairStrain,Test25,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:48:57,StairStrain,Test25,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:48:57,StairStrain,Test25,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:51:15,StairStrain,Test25,60200,Test Status,Test Ended Normally
+21/01/2023,16:51:15,StairStrain,Test25,60120,Total Time,137.116
+21/01/2023,16:51:15,StairStrain,Test25,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:51:15,StairStrain,Test25,62000,SHA-256,Test25.steps.tracking.csv,169FB47390FFFF87F56714101F548480579387DBCC3FCF2EE44C7BB677419D86
+21/01/2023,16:51:15,StairStrain,Test25,62000,SHA-256,Test25.Stop.csv,103AD2076CE1F680BB53EC99D46B3A2006618F62583013235E3A693A2F84DEF8
+21/01/2023,16:51:15,StairStrain,Test25,60112,Test Finished
+21/01/2023,16:51:32,StairStrain,Test26,60110,Test Started
+21/01/2023,16:51:32,StairStrain,Test26,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:51:32,StairStrain,Test26,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:51:32,StairStrain,Test26,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:51:32,StairStrain,Test26,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:53:50,StairStrain,Test26,60200,Test Status,Test Ended Normally
+21/01/2023,16:53:50,StairStrain,Test26,60120,Total Time,136.959
+21/01/2023,16:53:50,StairStrain,Test26,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:53:50,StairStrain,Test26,62000,SHA-256,Test26.steps.tracking.csv,C4CF9405BA76152D5C8DAEBCBD0544591A3DB8AED09FF67CCB40B5950A953B37
+21/01/2023,16:53:50,StairStrain,Test26,62000,SHA-256,Test26.Stop.csv,C0848458E5E976ADF22F81A460C12904C4721B80F886A1D91C86448D4272D2DD
+21/01/2023,16:53:50,StairStrain,Test26,60112,Test Finished
+21/01/2023,16:54:31,StairStrain,Test27,60110,Test Started
+21/01/2023,16:54:31,StairStrain,Test27,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:54:31,StairStrain,Test27,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:54:31,StairStrain,Test27,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:54:31,StairStrain,Test27,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:56:48,StairStrain,Test27,60200,Test Status,Test Ended Normally
+21/01/2023,16:56:48,StairStrain,Test27,60120,Total Time,136.959
+21/01/2023,16:56:48,StairStrain,Test27,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:56:48,StairStrain,Test27,62000,SHA-256,Test27.steps.tracking.csv,ED839B8B34A5D48100A9DE2E3689D54B839D0071D79F0D65612F5A4019456589
+21/01/2023,16:56:48,StairStrain,Test27,62000,SHA-256,Test27.Stop.csv,C0D7630CDA12273267C16DCF5D883779938275730D4B6E3E0DD43FE724A53B84
+21/01/2023,16:56:48,StairStrain,Test27,60112,Test Finished
+21/01/2023,16:57:19,StairStrain,Test28,60110,Test Started
+21/01/2023,16:57:19,StairStrain,Test28,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,16:57:19,StairStrain,Test28,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,16:57:19,StairStrain,Test28,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:57:19,StairStrain,Test28,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,16:59:36,StairStrain,Test28,60200,Test Status,Test Ended Normally
+21/01/2023,16:59:36,StairStrain,Test28,60120,Total Time,137.087
+21/01/2023,16:59:36,StairStrain,Test28,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,16:59:36,StairStrain,Test28,62000,SHA-256,Test28.steps.tracking.csv,D28C4CBA569557B417C4E7C4BA531B034BB858DAA1330EC70444E05773150409
+21/01/2023,16:59:36,StairStrain,Test28,62000,SHA-256,Test28.Stop.csv,BD37787F8654172E96ECB0B0EC9B0A03456BC9F143EE92BFAF58E3F35F629413
+21/01/2023,16:59:36,StairStrain,Test28,60112,Test Finished
+21/01/2023,17:00:05,StairStrain,Test29,60110,Test Started
+21/01/2023,17:00:05,StairStrain,Test29,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:00:05,StairStrain,Test29,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:00:05,StairStrain,Test29,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:00:05,StairStrain,Test29,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:02:22,StairStrain,Test29,60200,Test Status,Test Ended Normally
+21/01/2023,17:02:22,StairStrain,Test29,60120,Total Time,137.063
+21/01/2023,17:02:22,StairStrain,Test29,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:02:22,StairStrain,Test29,62000,SHA-256,Test29.steps.tracking.csv,33C36D199BEA518B43177AE7CE941E42B6E5ECFA920D80EF9176E59AD594461B
+21/01/2023,17:02:22,StairStrain,Test29,62000,SHA-256,Test29.Stop.csv,21A6B1059FDC17756CAEA6A278C1EB3403B6A8114ED490EA5982EA95113BA2D3
+21/01/2023,17:02:22,StairStrain,Test29,60112,Test Finished
+21/01/2023,17:02:50,StairStrain,Test30,60110,Test Started
+21/01/2023,17:02:50,StairStrain,Test30,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:02:50,StairStrain,Test30,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:02:50,StairStrain,Test30,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:02:50,StairStrain,Test30,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:05:08,StairStrain,Test30,60200,Test Status,Test Ended Normally
+21/01/2023,17:05:08,StairStrain,Test30,60120,Total Time,136.959
+21/01/2023,17:05:08,StairStrain,Test30,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:05:08,StairStrain,Test30,62000,SHA-256,Test30.steps.tracking.csv,25A459126B958FFCE685E5629A2FAEB9FA450B1A840BB6614536A8D60075C93D
+21/01/2023,17:05:08,StairStrain,Test30,62000,SHA-256,Test30.Stop.csv,62E5C86BE9B16356C06BCA6541958ADAF6513B9984A08E89D2CE6B05CBC1EFF0
+21/01/2023,17:05:08,StairStrain,Test30,60112,Test Finished
+21/01/2023,17:05:29,StairStrain,Test31,60110,Test Started
+21/01/2023,17:05:29,StairStrain,Test31,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:05:29,StairStrain,Test31,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:05:29,StairStrain,Test31,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:05:29,StairStrain,Test31,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:07:46,StairStrain,Test31,60200,Test Status,Test Ended Normally
+21/01/2023,17:07:46,StairStrain,Test31,60120,Total Time,136.959
+21/01/2023,17:07:46,StairStrain,Test31,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:07:46,StairStrain,Test31,62000,SHA-256,Test31.steps.tracking.csv,F04841653A2BEF845BD8F23A1E9A3263FAF970EF42E15AE9A3F904BE047143BA
+21/01/2023,17:07:46,StairStrain,Test31,62000,SHA-256,Test31.Stop.csv,E783958A3372B18164C93A8DC62EF0278F33234E686C087D5180FAA70E9FC08A
+21/01/2023,17:07:46,StairStrain,Test31,60112,Test Finished
+21/01/2023,17:08:38,StairStrain,Test32,60110,Test Started
+21/01/2023,17:08:38,StairStrain,Test32,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:08:38,StairStrain,Test32,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:08:38,StairStrain,Test32,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:08:38,StairStrain,Test32,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:10:56,StairStrain,Test32,60200,Test Status,Test Ended Normally
+21/01/2023,17:10:56,StairStrain,Test32,60120,Total Time,136.959
+21/01/2023,17:10:56,StairStrain,Test32,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:10:56,StairStrain,Test32,62000,SHA-256,Test32.steps.tracking.csv,BD35FD07CE001D55E647EA1C0EAF8FFCE4E640D95B915A1EBD6ABF5BE34C9C35
+21/01/2023,17:10:56,StairStrain,Test32,62000,SHA-256,Test32.Stop.csv,7092071D82E156FB2D0923D28C1C9FDF9C33F8D7600655FB7AB4082A7A150BFC
+21/01/2023,17:10:56,StairStrain,Test32,60112,Test Finished
+21/01/2023,17:12:14,StairStrain,Test33,60110,Test Started
+21/01/2023,17:12:14,StairStrain,Test33,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:12:14,StairStrain,Test33,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:12:14,StairStrain,Test33,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:12:14,StairStrain,Test33,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:14:31,StairStrain,Test33,60200,Test Status,Test Ended Normally
+21/01/2023,17:14:31,StairStrain,Test33,60120,Total Time,136.959
+21/01/2023,17:14:31,StairStrain,Test33,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:14:31,StairStrain,Test33,62000,SHA-256,Test33.steps.tracking.csv,D37A408426386CFAB08EB0B70F147E81D30E14246F104B397D4A02C10F8C53F5
+21/01/2023,17:14:31,StairStrain,Test33,62000,SHA-256,Test33.Stop.csv,85B67174D7B60716F82E54551EA4883EA0A0F827CA03F7A1F7CD445AAA8A0B63
+21/01/2023,17:14:31,StairStrain,Test33,60112,Test Finished
+21/01/2023,17:15:14,StairStrain,Test34,60110,Test Started
+21/01/2023,17:15:14,StairStrain,Test34,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:15:14,StairStrain,Test34,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:15:14,StairStrain,Test34,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:15:14,StairStrain,Test34,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:17:31,StairStrain,Test34,60200,Test Status,Test Ended Normally
+21/01/2023,17:17:31,StairStrain,Test34,60120,Total Time,136.959
+21/01/2023,17:17:31,StairStrain,Test34,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:17:31,StairStrain,Test34,62000,SHA-256,Test34.steps.tracking.csv,F15F071AC0DB933B3D607EE9B40622B2A70E60FFB9D584B89DB232E92DD31000
+21/01/2023,17:17:31,StairStrain,Test34,62000,SHA-256,Test34.Stop.csv,D37EA1FC7924BFE7D5E1485F666FA6DF39E731C822A16C5DA06EB523EA82E280
+21/01/2023,17:17:31,StairStrain,Test34,60112,Test Finished
+21/01/2023,17:18:13,StairStrain,Test35,60110,Test Started
+21/01/2023,17:18:13,StairStrain,Test35,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:18:13,StairStrain,Test35,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:18:13,StairStrain,Test35,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:18:13,StairStrain,Test35,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:20:30,StairStrain,Test35,60200,Test Status,Test Ended Normally
+21/01/2023,17:20:30,StairStrain,Test35,60120,Total Time,137.08
+21/01/2023,17:20:30,StairStrain,Test35,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:20:30,StairStrain,Test35,62000,SHA-256,Test35.steps.tracking.csv,91ACCE76A1EAABE4182A6BDC2C6F1E509107C9AE14C1D522C4C9B9A4304C0E5C
+21/01/2023,17:20:30,StairStrain,Test35,62000,SHA-256,Test35.Stop.csv,47C9B3F2C841247AB91A01CC44CAF30BCFF92B27B41B0DA94F5C67A798DAA495
+21/01/2023,17:20:30,StairStrain,Test35,60112,Test Finished
+21/01/2023,17:20:57,StairStrain,Test36,60110,Test Started
+21/01/2023,17:20:57,StairStrain,Test36,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:20:57,StairStrain,Test36,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:20:57,StairStrain,Test36,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:20:57,StairStrain,Test36,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:23:14,StairStrain,Test36,60200,Test Status,Test Ended Normally
+21/01/2023,17:23:14,StairStrain,Test36,60120,Total Time,136.959
+21/01/2023,17:23:14,StairStrain,Test36,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:23:14,StairStrain,Test36,62000,SHA-256,Test36.steps.tracking.csv,94EE4975C3E0EF942D9EFC076333287B38E8A877AFF33A853C445C08007D962A
+21/01/2023,17:23:14,StairStrain,Test36,62000,SHA-256,Test36.Stop.csv,82D1294069EBF138E9C6B133885BA17A048C30931BBC5DA9601BAE92BCD61594
+21/01/2023,17:23:14,StairStrain,Test36,60112,Test Finished
+21/01/2023,17:23:43,StairStrain,Test37,60110,Test Started
+21/01/2023,17:23:43,StairStrain,Test37,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:23:43,StairStrain,Test37,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:23:43,StairStrain,Test37,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:23:43,StairStrain,Test37,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:26:00,StairStrain,Test37,60200,Test Status,Test Ended Normally
+21/01/2023,17:26:00,StairStrain,Test37,60120,Total Time,137.059
+21/01/2023,17:26:00,StairStrain,Test37,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:26:00,StairStrain,Test37,62000,SHA-256,Test37.steps.tracking.csv,5F94E434E46BDD8D0CDD9AB002666EA96AA25587E37207E557102D193A998434
+21/01/2023,17:26:00,StairStrain,Test37,62000,SHA-256,Test37.Stop.csv,9A989365FE02D8837A771A416C963C4ACBBBFE3F7B989559066D9CC10BBE216A
+21/01/2023,17:26:00,StairStrain,Test37,60112,Test Finished
+21/01/2023,17:26:31,StairStrain,Test38,60110,Test Started
+21/01/2023,17:26:31,StairStrain,Test38,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:26:31,StairStrain,Test38,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:26:31,StairStrain,Test38,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:26:31,StairStrain,Test38,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:28:49,StairStrain,Test38,60200,Test Status,Test Ended Normally
+21/01/2023,17:28:49,StairStrain,Test38,60120,Total Time,136.959
+21/01/2023,17:28:49,StairStrain,Test38,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:28:49,StairStrain,Test38,62000,SHA-256,Test38.steps.tracking.csv,8878B0E3910A744716CDEC10027C019E065D1916299D6F955D1659BA0E954A7B
+21/01/2023,17:28:49,StairStrain,Test38,62000,SHA-256,Test38.Stop.csv,D05B147D0A2D0366855BB295DCD2CC08E289848224E10E007EC272A3025B0E15
+21/01/2023,17:28:49,StairStrain,Test38,60112,Test Finished
+21/01/2023,17:29:33,StairStrain,Test39,60110,Test Started
+21/01/2023,17:29:33,StairStrain,Test39,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:29:33,StairStrain,Test39,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:29:33,StairStrain,Test39,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:29:33,StairStrain,Test39,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:31:50,StairStrain,Test39,60200,Test Status,Test Ended Normally
+21/01/2023,17:31:50,StairStrain,Test39,60120,Total Time,137.053
+21/01/2023,17:31:50,StairStrain,Test39,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:31:50,StairStrain,Test39,62000,SHA-256,Test39.steps.tracking.csv,1BD9D86E28452CAC54E2A5594A79639407EDD82DC3204E19560D807F201E9113
+21/01/2023,17:31:50,StairStrain,Test39,62000,SHA-256,Test39.Stop.csv,3627F3FBE77CDA483B774A346623DE17268573DAC68BFC6B63C3AC1F9203424D
+21/01/2023,17:31:50,StairStrain,Test39,60112,Test Finished
+21/01/2023,17:32:20,StairStrain,Test40,60110,Test Started
+21/01/2023,17:32:20,StairStrain,Test40,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:32:20,StairStrain,Test40,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:32:20,StairStrain,Test40,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:32:20,StairStrain,Test40,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:34:37,StairStrain,Test40,60200,Test Status,Test Ended Normally
+21/01/2023,17:34:37,StairStrain,Test40,60120,Total Time,136.959
+21/01/2023,17:34:37,StairStrain,Test40,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:34:37,StairStrain,Test40,62000,SHA-256,Test40.steps.tracking.csv,2ABB0856C9AC887E28544C5441A9D3BD9E6C9EAB89DF6EFEFF49BBFDC9DBCCE1
+21/01/2023,17:34:37,StairStrain,Test40,62000,SHA-256,Test40.Stop.csv,BEC309BCF0C380E9FAB8EE158C3DBF2EA6EA848CC1CD87CB9C4825F38A5521AF
+21/01/2023,17:34:37,StairStrain,Test40,60112,Test Finished
+21/01/2023,17:35:37,StairStrain,Test41,60110,Test Started
+21/01/2023,17:35:37,StairStrain,Test41,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:35:37,StairStrain,Test41,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:35:37,StairStrain,Test41,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:35:37,StairStrain,Test41,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:37:54,StairStrain,Test41,60200,Test Status,Test Ended Normally
+21/01/2023,17:37:54,StairStrain,Test41,60120,Total Time,136.959
+21/01/2023,17:37:54,StairStrain,Test41,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:37:54,StairStrain,Test41,62000,SHA-256,Test41.steps.tracking.csv,96B18D32C7C46A90B18C7373845D1813FD7100E655FC17E1BC05E44566E4FBB1
+21/01/2023,17:37:54,StairStrain,Test41,62000,SHA-256,Test41.Stop.csv,4E60801EA199CF24C69DE8DEF4FC885AA008D23C48F44E1E2E8FF80093FF15EB
+21/01/2023,17:37:54,StairStrain,Test41,60112,Test Finished
+21/01/2023,17:38:33,StairStrain,Test42,60110,Test Started
+21/01/2023,17:38:33,StairStrain,Test42,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:38:33,StairStrain,Test42,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:38:33,StairStrain,Test42,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:38:33,StairStrain,Test42,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:40:51,StairStrain,Test42,60200,Test Status,Test Ended Normally
+21/01/2023,17:40:51,StairStrain,Test42,60120,Total Time,137.067
+21/01/2023,17:40:51,StairStrain,Test42,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:40:51,StairStrain,Test42,62000,SHA-256,Test42.steps.tracking.csv,71F15FF1C434BB9D5345EA0CA83F1DFAFFBB703A01A386229861749140ADDC5A
+21/01/2023,17:40:51,StairStrain,Test42,62000,SHA-256,Test42.Stop.csv,A7B74C4079B85FC4BB4314272AF9F103422DB7DB05F88BD68D5284B99F5861C4
+21/01/2023,17:40:51,StairStrain,Test42,60112,Test Finished
+21/01/2023,17:41:18,StairStrain,Test43,60110,Test Started
+21/01/2023,17:41:18,StairStrain,Test43,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:41:18,StairStrain,Test43,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:41:18,StairStrain,Test43,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:41:18,StairStrain,Test43,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:43:35,StairStrain,Test43,60200,Test Status,Test Ended Normally
+21/01/2023,17:43:35,StairStrain,Test43,60120,Total Time,136.703
+21/01/2023,17:43:35,StairStrain,Test43,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:43:35,StairStrain,Test43,62000,SHA-256,Test43.steps.tracking.csv,7BE0E85EB596575B88E0D56632BF40FE2D546DE49DA79B0C13EEC08D502300CB
+21/01/2023,17:43:35,StairStrain,Test43,62000,SHA-256,Test43.Stop.csv,B8234EA8E56BE750DD3E59B99B49519729F8D0F9099401F62957851ABA69ED41
+21/01/2023,17:43:35,StairStrain,Test43,60112,Test Finished
+21/01/2023,17:44:04,StairStrain,Test44,60110,Test Started
+21/01/2023,17:44:04,StairStrain,Test44,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:44:04,StairStrain,Test44,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:44:04,StairStrain,Test44,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:44:04,StairStrain,Test44,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:46:21,StairStrain,Test44,60200,Test Status,Test Ended Normally
+21/01/2023,17:46:21,StairStrain,Test44,60120,Total Time,136.959
+21/01/2023,17:46:21,StairStrain,Test44,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:46:21,StairStrain,Test44,62000,SHA-256,Test44.steps.tracking.csv,9A4872D66A6B8AA0BF57F1E6527942D4F7962EC5094B16E77D3520F842DA473E
+21/01/2023,17:46:21,StairStrain,Test44,62000,SHA-256,Test44.Stop.csv,2F5D4146B3330CE02AABF41EE0BC12CAC3C8F64A1AB7B500C05B3E96DD870275
+21/01/2023,17:46:21,StairStrain,Test44,60112,Test Finished
+21/01/2023,17:47:37,StairStrain,Test45,60110,Test Started
+21/01/2023,17:47:37,StairStrain,Test45,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:47:37,StairStrain,Test45,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:47:37,StairStrain,Test45,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:47:37,StairStrain,Test45,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:49:54,StairStrain,Test45,60200,Test Status,Test Ended Normally
+21/01/2023,17:49:54,StairStrain,Test45,60120,Total Time,136.959
+21/01/2023,17:49:54,StairStrain,Test45,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:49:54,StairStrain,Test45,62000,SHA-256,Test45.steps.tracking.csv,5980B909F2F164D66BB1FE9880B04CC256A361646C6A785AB5066FF04ABEBE69
+21/01/2023,17:49:54,StairStrain,Test45,62000,SHA-256,Test45.Stop.csv,A606445A861E083AEA0740FA68F4BFC7A81B622401F8A4C5D25D2A2129263E0F
+21/01/2023,17:49:54,StairStrain,Test45,60112,Test Finished
+21/01/2023,17:51:59,StairStrain,Test46,60110,Test Started
+21/01/2023,17:51:59,StairStrain,Test46,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:51:59,StairStrain,Test46,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:51:59,StairStrain,Test46,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:51:59,StairStrain,Test46,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:54:16,StairStrain,Test46,60200,Test Status,Test Ended Normally
+21/01/2023,17:54:16,StairStrain,Test46,60120,Total Time,136.959
+21/01/2023,17:54:16,StairStrain,Test46,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:54:16,StairStrain,Test46,62000,SHA-256,Test46.steps.tracking.csv,A1B7BFDFEBBFF15E2C806131C9FA7FD6BDFA2E78EFA4C0D8FA1AF8E3FBB63EFC
+21/01/2023,17:54:16,StairStrain,Test46,62000,SHA-256,Test46.Stop.csv,B28EAE6F74084127D2275743CF52CF3903B1D752C1D23F4A4C3BDC7665F14BAB
+21/01/2023,17:54:16,StairStrain,Test46,60112,Test Finished
+21/01/2023,17:54:48,StairStrain,Test47,60110,Test Started
+21/01/2023,17:54:48,StairStrain,Test47,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:54:48,StairStrain,Test47,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:54:48,StairStrain,Test47,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:54:48,StairStrain,Test47,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:57:05,StairStrain,Test47,60200,Test Status,Test Ended Normally
+21/01/2023,17:57:05,StairStrain,Test47,60120,Total Time,136.959
+21/01/2023,17:57:05,StairStrain,Test47,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:57:05,StairStrain,Test47,62000,SHA-256,Test47.steps.tracking.csv,B626FECAB34912495B1558D23B144BE3D9967CD17BBB6C617C56DD8EAF64615C
+21/01/2023,17:57:05,StairStrain,Test47,62000,SHA-256,Test47.Stop.csv,C0F0435B4FB6F519CCDB24CAE10FDCBCA2D003C8B6CF3848C6EAC4459ED94EE5
+21/01/2023,17:57:06,StairStrain,Test47,60112,Test Finished
+21/01/2023,17:57:35,StairStrain,Test48,60110,Test Started
+21/01/2023,17:57:35,StairStrain,Test48,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,17:57:35,StairStrain,Test48,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,17:57:35,StairStrain,Test48,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:57:35,StairStrain,Test48,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,17:59:53,StairStrain,Test48,60200,Test Status,Test Ended Normally
+21/01/2023,17:59:53,StairStrain,Test48,60120,Total Time,136.959
+21/01/2023,17:59:53,StairStrain,Test48,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,17:59:53,StairStrain,Test48,62000,SHA-256,Test48.steps.tracking.csv,9B0E010B59C5BFBA4A74401E0F87B579168F241DE275BAB292578A9A761A905E
+21/01/2023,17:59:53,StairStrain,Test48,62000,SHA-256,Test48.Stop.csv,C95F4E05DA63F3061CDB1CDAF67F8EF0A0B254FC6794BFB174FEAF874BDA9C63
+21/01/2023,17:59:53,StairStrain,Test48,60112,Test Finished
+21/01/2023,18:00:20,StairStrain,Test49,60110,Test Started
+21/01/2023,18:00:20,StairStrain,Test49,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,18:00:20,StairStrain,Test49,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,18:00:20,StairStrain,Test49,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,18:00:20,StairStrain,Test49,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,18:02:37,StairStrain,Test49,60200,Test Status,Test Ended Normally
+21/01/2023,18:02:37,StairStrain,Test49,60120,Total Time,136.959
+21/01/2023,18:02:37,StairStrain,Test49,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,18:02:37,StairStrain,Test49,62000,SHA-256,Test49.steps.tracking.csv,8C6F1E310EFB4425BE287CAA85C42527FBF5A2E5D852ADF2E8AD06D2506D5709
+21/01/2023,18:02:37,StairStrain,Test49,62000,SHA-256,Test49.Stop.csv,E84C5F003B9B2A60547D664FDAAB5B5254842CE8A0717FA8422639916D956BF9
+21/01/2023,18:02:37,StairStrain,Test49,60112,Test Finished
+21/01/2023,18:02:54,StairStrain,Test50,60110,Test Started
+21/01/2023,18:02:54,StairStrain,Test50,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,18:02:54,StairStrain,Test50,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,18:02:54,StairStrain,Test50,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,18:02:54,StairStrain,Test50,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,18:05:11,StairStrain,Test50,60200,Test Status,Test Ended Normally
+21/01/2023,18:05:11,StairStrain,Test50,60120,Total Time,136.959
+21/01/2023,18:05:11,StairStrain,Test50,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,18:05:11,StairStrain,Test50,62000,SHA-256,Test50.steps.tracking.csv,B4461FC84589BDE05C40E6C5DAB810149AADFFA23A62D59C3023CD457D503A69
+21/01/2023,18:05:11,StairStrain,Test50,62000,SHA-256,Test50.Stop.csv,BFA59BEE2DDDC4414033BA17C155364AD22B8305E7FA00E4047BE84DA2D10F59
+21/01/2023,18:05:11,StairStrain,Test50,60112,Test Finished
+21/01/2023,18:05:58,StairStrain,Test51,60110,Test Started
+21/01/2023,18:05:58,StairStrain,Test51,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+21/01/2023,18:05:58,StairStrain,Test51,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+21/01/2023,18:05:58,StairStrain,Test51,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,18:05:58,StairStrain,Test51,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+21/01/2023,18:08:15,StairStrain,Test51,60200,Test Status,Test Ended Normally
+21/01/2023,18:08:15,StairStrain,Test51,60120,Total Time,136.959
+21/01/2023,18:08:15,StairStrain,Test51,60121,Total Cycle Count(Linear Waveform),0
+21/01/2023,18:08:15,StairStrain,Test51,62000,SHA-256,Test51.steps.tracking.csv,779F6B5A4C762C8FF156C125F360E6843F7BEE09DE46A5E9B57E8704E05B611A
+21/01/2023,18:08:15,StairStrain,Test51,62000,SHA-256,Test51.Stop.csv,954B63B80E7EF33BB0C9665449DB6FE7BC89DDBB4EC99C1E3C5362886BD69FF7
+21/01/2023,18:08:15,StairStrain,Test51,60112,Test Finished
+21/01/2023,18:08:24,StairStrain,Test52,60103,Closed
