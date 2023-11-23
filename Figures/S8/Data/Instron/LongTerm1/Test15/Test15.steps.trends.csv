@@ -1,0 +1,2 @@
+﻿"Total Cycles","Elapsed Cycles","Step","PC:Cycle Start Time (s)","PC:Frequency (Hz)","Position(Linear:Position):Maximum (mm)","Position(Linear:Position):Minimum (mm)","Force(Linear:Load):Maximum (N)","Force(Linear:Load):Minimum (N)","Displacement(Linear:Digitale Position):Maximum (mm)","Displacement(Linear:Digitale Position):Minimum (mm)",
+1,1,2,5.089,0.099177,-23.1617727130651,-28.1759913917631,1.55956484377384,0.789728946983814,-23.1617762334645,-28.1759949401021,

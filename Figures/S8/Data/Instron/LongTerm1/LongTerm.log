@@ -1,0 +1,177 @@
+09/11/2023,12:23:04,LongTerm,,60101,Log File Created
+09/11/2023,12:23:04,LongTerm,,60104,Software Version,2.1.20079.01
+09/11/2023,12:23:05,LongTerm,,60105,Console Version,10.2.20286.1
+09/11/2023,12:23:05,LongTerm,,60106,Controller Version,24.01.20210712
+09/11/2023,12:23:05,LongTerm,,60107,User Name,Uni Balgrist
+09/11/2023,12:23:05,LongTerm,,60108,Computer Name,DESKTOP-5944NRF
+09/11/2023,12:23:05,LongTerm,,60109,System Name,
+09/11/2023,12:23:05,LongTerm,,60110,Frame Serial Number (System ID),E3LMTM2523
+09/11/2023,14:39:22,LongTerm,Test1,60110,Test Started
+09/11/2023,14:39:22,LongTerm,Test1,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,14:39:22,LongTerm,Test1,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,14:39:22,LongTerm,Test1,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:39:22,LongTerm,Test1,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:42:53,LongTerm,Test1,60200,Test Status,Test Ended Normally
+09/11/2023,14:42:53,LongTerm,Test1,60120,Total Time,210.943
+09/11/2023,14:42:53,LongTerm,Test1,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,14:42:53,LongTerm,Test1,62000,SHA-256,Test1.steps.tracking.csv,E3EBBE3281C188617AB3C9720F2D71ED0997DE1C8CD7F2C382B27841BC3D4A85
+09/11/2023,14:42:53,LongTerm,Test1,62000,SHA-256,Test1.Stop.csv,E3EBBE3281C188617AB3C9720F2D71ED0997DE1C8CD7F2C382B27841BC3D4A85
+09/11/2023,14:42:53,LongTerm,Test1,60112,Test Finished
+09/11/2023,14:43:43,LongTerm,Test2,60110,Test Started
+09/11/2023,14:43:43,LongTerm,Test2,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,14:43:43,LongTerm,Test2,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,14:43:43,LongTerm,Test2,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:43:43,LongTerm,Test2,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:47:14,LongTerm,Test2,60200,Test Status,Test Ended Normally
+09/11/2023,14:47:14,LongTerm,Test2,60120,Total Time,210.943
+09/11/2023,14:47:15,LongTerm,Test2,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,14:47:15,LongTerm,Test2,62000,SHA-256,Test2.steps.tracking.csv,D9CD70FC968B39A0C741D566D0B136C1890F40D9A4025965A71BADF944C24D59
+09/11/2023,14:47:15,LongTerm,Test2,62000,SHA-256,Test2.Stop.csv,D9CD70FC968B39A0C741D566D0B136C1890F40D9A4025965A71BADF944C24D59
+09/11/2023,14:47:15,LongTerm,Test2,60112,Test Finished
+09/11/2023,14:47:45,LongTerm,Test3,60110,Test Started
+09/11/2023,14:47:45,LongTerm,Test3,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,14:47:45,LongTerm,Test3,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,14:47:45,LongTerm,Test3,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:47:45,LongTerm,Test3,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:51:16,LongTerm,Test3,60200,Test Status,Test Ended Normally
+09/11/2023,14:51:16,LongTerm,Test3,60120,Total Time,210.943
+09/11/2023,14:51:16,LongTerm,Test3,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,14:51:16,LongTerm,Test3,62000,SHA-256,Test3.steps.tracking.csv,EC47F20408EAA3121C4AE0DF3DE895DABCAF8EB6F1FDBDDEF65C314084D5E340
+09/11/2023,14:51:16,LongTerm,Test3,62000,SHA-256,Test3.Stop.csv,EC47F20408EAA3121C4AE0DF3DE895DABCAF8EB6F1FDBDDEF65C314084D5E340
+09/11/2023,14:51:16,LongTerm,Test3,60112,Test Finished
+09/11/2023,14:52:16,LongTerm,Test4,60110,Test Started
+09/11/2023,14:52:16,LongTerm,Test4,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,14:52:16,LongTerm,Test4,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,14:52:16,LongTerm,Test4,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:52:16,LongTerm,Test4,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:55:47,LongTerm,Test4,60200,Test Status,Test Ended Normally
+09/11/2023,14:55:47,LongTerm,Test4,60120,Total Time,210.943
+09/11/2023,14:55:47,LongTerm,Test4,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,14:55:47,LongTerm,Test4,62000,SHA-256,Test4.steps.tracking.csv,293F25BB51707DEBD3FE855BB707D694A54DD3591D3240623FC87FBFCD160A49
+09/11/2023,14:55:47,LongTerm,Test4,62000,SHA-256,Test4.Stop.csv,293F25BB51707DEBD3FE855BB707D694A54DD3591D3240623FC87FBFCD160A49
+09/11/2023,14:55:47,LongTerm,Test4,60112,Test Finished
+09/11/2023,14:56:40,LongTerm,Test5,60110,Test Started
+09/11/2023,14:56:40,LongTerm,Test5,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,14:56:40,LongTerm,Test5,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,14:56:40,LongTerm,Test5,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,14:56:40,LongTerm,Test5,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:00:11,LongTerm,Test5,60200,Test Status,Test Ended Normally
+09/11/2023,15:00:11,LongTerm,Test5,60120,Total Time,211.073
+09/11/2023,15:00:11,LongTerm,Test5,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:00:11,LongTerm,Test5,62000,SHA-256,Test5.steps.tracking.csv,3EFA6258C578DA6B97C7135679327CEBFF7F094E29E27AF4D2FDB30AFD0A70F8
+09/11/2023,15:00:11,LongTerm,Test5,62000,SHA-256,Test5.Stop.csv,3EFA6258C578DA6B97C7135679327CEBFF7F094E29E27AF4D2FDB30AFD0A70F8
+09/11/2023,15:00:11,LongTerm,Test5,60112,Test Finished
+09/11/2023,15:00:36,LongTerm,Test6,60110,Test Started
+09/11/2023,15:00:36,LongTerm,Test6,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:00:36,LongTerm,Test6,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:00:36,LongTerm,Test6,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:00:36,LongTerm,Test6,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:04:07,LongTerm,Test6,60200,Test Status,Test Ended Normally
+09/11/2023,15:04:07,LongTerm,Test6,60120,Total Time,211.061
+09/11/2023,15:04:07,LongTerm,Test6,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:04:07,LongTerm,Test6,62000,SHA-256,Test6.steps.tracking.csv,7D82B22F439440A02D45158B88D8B20AFAA253FF007ABCB2AAB5B9994F4E0CE9
+09/11/2023,15:04:07,LongTerm,Test6,62000,SHA-256,Test6.Stop.csv,7D82B22F439440A02D45158B88D8B20AFAA253FF007ABCB2AAB5B9994F4E0CE9
+09/11/2023,15:04:07,LongTerm,Test6,60112,Test Finished
+09/11/2023,15:05:01,LongTerm,Test7,60110,Test Started
+09/11/2023,15:05:01,LongTerm,Test7,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:05:01,LongTerm,Test7,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:05:01,LongTerm,Test7,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:05:01,LongTerm,Test7,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:05:08,LongTerm,Test7,60205,Test Status,Test Ended by User
+09/11/2023,15:05:08,LongTerm,Test7,60120,Total Time,6.399
+09/11/2023,15:05:08,LongTerm,Test7,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:05:08,LongTerm,Test7,60122,Step,2,Step 2
+09/11/2023,15:05:08,LongTerm,Test7,62000,SHA-256,Test7.steps.tracking.csv,2885EA6815632162A92B933732CBA55613D995B6025FF69A31779794E3B75769
+09/11/2023,15:05:08,LongTerm,Test7,62000,SHA-256,Test7.Stop.csv,2885EA6815632162A92B933732CBA55613D995B6025FF69A31779794E3B75769
+09/11/2023,15:05:08,LongTerm,Test7,60112,Test Finished
+09/11/2023,15:05:57,LongTerm,Test8,60110,Test Started
+09/11/2023,15:05:57,LongTerm,Test8,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:05:57,LongTerm,Test8,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:05:57,LongTerm,Test8,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:05:58,LongTerm,Test8,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:09:29,LongTerm,Test8,60200,Test Status,Test Ended Normally
+09/11/2023,15:09:29,LongTerm,Test8,60120,Total Time,210.957
+09/11/2023,15:09:29,LongTerm,Test8,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:09:29,LongTerm,Test8,62000,SHA-256,Test8.steps.tracking.csv,F86BA4FE0C19EBD047E4366F4954631FA8F835D8D6A7AE3DC9BBD418386DDAB1
+09/11/2023,15:09:29,LongTerm,Test8,62000,SHA-256,Test8.Stop.csv,F86BA4FE0C19EBD047E4366F4954631FA8F835D8D6A7AE3DC9BBD418386DDAB1
+09/11/2023,15:09:29,LongTerm,Test8,60112,Test Finished
+09/11/2023,15:10:08,LongTerm,Test9,60110,Test Started
+09/11/2023,15:10:08,LongTerm,Test9,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:10:08,LongTerm,Test9,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:10:08,LongTerm,Test9,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:10:08,LongTerm,Test9,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:13:39,LongTerm,Test9,60200,Test Status,Test Ended Normally
+09/11/2023,15:13:39,LongTerm,Test9,60120,Total Time,210.687
+09/11/2023,15:13:39,LongTerm,Test9,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:13:39,LongTerm,Test9,62000,SHA-256,Test9.steps.tracking.csv,139E7FA7B6249B04832CBDB5C9F944ADDFB361A9B1F26E917CE28A4277B6C289
+09/11/2023,15:13:39,LongTerm,Test9,62000,SHA-256,Test9.Stop.csv,139E7FA7B6249B04832CBDB5C9F944ADDFB361A9B1F26E917CE28A4277B6C289
+09/11/2023,15:13:39,LongTerm,Test9,60112,Test Finished
+09/11/2023,15:17:56,LongTerm,Test10,60110,Test Started
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:21:27,LongTerm,Test10,60200,Test Status,Test Ended Normally
+09/11/2023,15:21:27,LongTerm,Test10,60120,Total Time,211.115
+09/11/2023,15:21:27,LongTerm,Test10,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:21:27,LongTerm,Test10,62000,SHA-256,Test10.steps.tracking.csv,2B26BE33DE9080DF687F890CF44F61693A1794D5845D85DACB35864CDEEEF5A7
+09/11/2023,15:21:27,LongTerm,Test10,62000,SHA-256,Test10.Stop.csv,2B26BE33DE9080DF687F890CF44F61693A1794D5845D85DACB35864CDEEEF5A7
+09/11/2023,15:21:27,LongTerm,Test10,60112,Test Finished
+09/11/2023,15:28:39,LongTerm,Test11,60110,Test Started
+09/11/2023,15:28:39,LongTerm,Test11,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:28:39,LongTerm,Test11,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:28:39,LongTerm,Test11,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:28:39,LongTerm,Test11,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:32:11,LongTerm,Test11,60200,Test Status,Test Ended Normally
+09/11/2023,15:32:11,LongTerm,Test11,60120,Total Time,210.943
+09/11/2023,15:32:11,LongTerm,Test11,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:32:11,LongTerm,Test11,62000,SHA-256,Test11.steps.tracking.csv,297701497E3B3516C60FA3771CC7CDD04616E7D08354EE8EDD4036F44A5BABC9
+09/11/2023,15:32:11,LongTerm,Test11,62000,SHA-256,Test11.Stop.csv,297701497E3B3516C60FA3771CC7CDD04616E7D08354EE8EDD4036F44A5BABC9
+09/11/2023,15:32:11,LongTerm,Test11,60112,Test Finished
+09/11/2023,15:33:46,LongTerm,Test12,60110,Test Started
+09/11/2023,15:33:46,LongTerm,Test12,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:33:46,LongTerm,Test12,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:33:46,LongTerm,Test12,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:33:46,LongTerm,Test12,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:37:17,LongTerm,Test12,60200,Test Status,Test Ended Normally
+09/11/2023,15:37:17,LongTerm,Test12,60120,Total Time,210.943
+09/11/2023,15:37:17,LongTerm,Test12,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:37:17,LongTerm,Test12,62000,SHA-256,Test12.steps.tracking.csv,530B1DE085A48C6FFE00FD1CAB626B2D0050CD4B03272449357994A7F0FE0E58
+09/11/2023,15:37:17,LongTerm,Test12,62000,SHA-256,Test12.Stop.csv,530B1DE085A48C6FFE00FD1CAB626B2D0050CD4B03272449357994A7F0FE0E58
+09/11/2023,15:37:17,LongTerm,Test12,60112,Test Finished
+09/11/2023,15:56:30,LongTerm,Test13,60110,Test Started
+09/11/2023,15:56:30,LongTerm,Test13,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:56:30,LongTerm,Test13,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:56:30,LongTerm,Test13,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:56:30,LongTerm,Test13,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,16:00:01,LongTerm,Test13,60200,Test Status,Test Ended Normally
+09/11/2023,16:00:01,LongTerm,Test13,60120,Total Time,210.687
+09/11/2023,16:00:01,LongTerm,Test13,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,16:00:01,LongTerm,Test13,62000,SHA-256,Test13.steps.tracking.csv,8550EEB168297B3E6D8E57AD3F41AD1BAA47D1620886642B45985F09F8D6EDA3
+09/11/2023,16:00:01,LongTerm,Test13,62000,SHA-256,Test13.Stop.csv,8550EEB168297B3E6D8E57AD3F41AD1BAA47D1620886642B45985F09F8D6EDA3
+09/11/2023,16:00:01,LongTerm,Test13,60112,Test Finished
+09/11/2023,16:01:56,LongTerm,Test14,60110,Test Started
+09/11/2023,16:01:56,LongTerm,Test14,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,16:01:56,LongTerm,Test14,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,16:01:56,LongTerm,Test14,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,16:01:56,LongTerm,Test14,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,16:02:37,LongTerm,Test14,60200,Test Status,Test Ended Normally
+09/11/2023,16:02:37,LongTerm,Test14,60120,Total Time,40.959
+09/11/2023,16:02:37,LongTerm,Test14,60121,Total Cycle Count(Linear Waveform),5
+09/11/2023,16:02:37,LongTerm,Test14,62000,SHA-256,Test14.steps.tracking.csv,6F4025522D70B75210825AE01D1A56A49CCA83A7A100CBBCDA479E4C247D2229
+09/11/2023,16:02:37,LongTerm,Test14,62000,SHA-256,Test14.steps.trends.csv,4EA383E065334E2BFFA90EFFFA8867A9E4E7264B3AB63D8E9BF48E854ECDACBF
+09/11/2023,16:02:37,LongTerm,Test14,62000,SHA-256,Test14.Stop.csv,6F4025522D70B75210825AE01D1A56A49CCA83A7A100CBBCDA479E4C247D2229
+09/11/2023,16:02:37,LongTerm,Test14,60112,Test Finished
+09/11/2023,16:05:48,LongTerm,Test15,60110,Test Started
+09/11/2023,16:05:48,LongTerm,Test15,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,16:05:48,LongTerm,Test15,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,16:05:48,LongTerm,Test15,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,16:05:48,LongTerm,Test15,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,16:39:40,LongTerm,Test15,60200,Test Status,Test Ended Normally
+09/11/2023,16:39:40,LongTerm,Test15,60120,Total Time,2031.103
+09/11/2023,16:39:40,LongTerm,Test15,60121,Total Cycle Count(Linear Waveform),1000
+09/11/2023,16:39:47,LongTerm,Test15,62000,SHA-256,Test15.steps.tracking.csv,4FFE6A43194CB104E6043E4F4F9B9D8455C662529D42B09369B22B032331DC10
+09/11/2023,16:39:47,LongTerm,Test15,62000,SHA-256,Test15.steps.trends.csv,762F9F80DB253CB283132FFBE632671765F253C9727EA1BA4FCC544C177F1D84
+09/11/2023,16:39:47,LongTerm,Test15,62000,SHA-256,Test15.Stop.csv,EE2417B4114E73D4B695837DD9BD2B22D6EDDB3A67991A1A0A47EB8CE76D0DC1
+09/11/2023,16:39:47,LongTerm,Test15,60112,Test Finished
+09/11/2023,16:39:58,LongTerm,Test16,60103,Closed

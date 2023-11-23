@@ -1,0 +1,20 @@
+09/11/2023,15:17:56,LongTerm,Test10,60101,Log File Created
+09/11/2023,15:17:56,LongTerm,Test10,60104,Software Version,2.1.20079.01
+09/11/2023,15:17:56,LongTerm,Test10,60105,Console Version,10.2.20286.1
+09/11/2023,15:17:56,LongTerm,Test10,60106,Controller Version,24.01.20210712
+09/11/2023,15:17:56,LongTerm,Test10,60107,User Name,Uni Balgrist
+09/11/2023,15:17:56,LongTerm,Test10,60108,Computer Name,DESKTOP-5944NRF
+09/11/2023,15:17:56,LongTerm,Test10,60109,System Name,
+09/11/2023,15:17:56,LongTerm,Test10,60110,Frame Serial Number (System ID),E3LMTM2523
+09/11/2023,15:17:56,LongTerm,Test10,60110,Test Started
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:17:56,LongTerm,Test10,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+09/11/2023,15:21:27,LongTerm,Test10,60200,Test Status,Test Ended Normally
+09/11/2023,15:21:27,LongTerm,Test10,60120,Total Time,211.115
+09/11/2023,15:21:27,LongTerm,Test10,60121,Total Cycle Count(Linear Waveform),0
+09/11/2023,15:21:27,LongTerm,Test10,62000,SHA-256,Test10.steps.tracking.csv,2B26BE33DE9080DF687F890CF44F61693A1794D5845D85DACB35864CDEEEF5A7
+09/11/2023,15:21:27,LongTerm,Test10,62000,SHA-256,Test10.Stop.csv,2B26BE33DE9080DF687F890CF44F61693A1794D5845D85DACB35864CDEEEF5A7
+09/11/2023,15:21:27,LongTerm,Test10,60112,Test Finished
+09/11/2023,15:21:28,LongTerm,Test10,60103,Closed
