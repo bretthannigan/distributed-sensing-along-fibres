@@ -4,7 +4,7 @@ This repository contains data and scripts necessary to reproduce the figures fro
 
 > [1] Brett C. Hannigan, Tyler J. Cuthbert, Chakaveh Ahmadizadeh, and Carlo Menon. Distributed Sensing Along Fibres for Smart Clothing. *Science Advances*. 2023 (In Review).
 
-The repository is dividied into two parts:
+The repository is dividied into three parts, one for the machine learning models, one for figure generation, and one for the system identifiability analysis:
 
 `/ML`: Python Jupyter notebooks for machine learning training and evaluation, in two parts:
 
@@ -13,6 +13,10 @@ The repository is dividied into two parts:
 `/ML/JointAngles`: For Section 2 *Joint Angle Monitoring* of [1].
 
 `/Figures`: R Jupyter notebooks for producing Figures 2, 4, 6, 7, and S9 of [1].
+
+`/Identifiability/RC3Identifiability.mw`: Maple worksheet for the 3-segment identifiability analysis described as 1. in Section S3 the Supplementary Materials.
+
+`/Identifiability/RC4Identifiability.mw`: Maple worksheet for the 3-segment identifiability analysis described as 2. in Section S3 the Supplementary Materials.
 
 The files, especially the names of intermediate output files, are still fairly unorganized, but it has been tested that all the figures may be reproduced.
 
@@ -74,6 +78,11 @@ R (version 4.3.1 used) with the following packages:
 - `scales`
 - `tidyverse`
 - `tidyr`
+
+### Maple Worksheets
+
+Maple (version 2021 used) with the following package:
+- `SIAN` [version 1.6](https://github.com/pogudingleb/SIAN)
 
 ## Known Issues
 
