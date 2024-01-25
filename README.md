@@ -16,7 +16,7 @@ The repository is dividied into three parts, one for the machine learning models
 
 `/Identifiability/RC3Identifiability.mw`: Maple worksheet for the 3-segment identifiability analysis described as 1. in Section S3 the Supplementary Materials.
 
-`/Identifiability/RC4Identifiability.mw`: Maple worksheet for the 3-segment identifiability analysis described as 2. in Section S3 the Supplementary Materials.
+`/Identifiability/RC4Identifiability.mw`: Maple worksheet for the 4-segment identifiability analysis described as 2. in Section S3 the Supplementary Materials.
 
 The files, especially the names of intermediate output files, are still fairly unorganized, but it has been tested that all the figures may be reproduced.
 
@@ -82,7 +82,7 @@ R (version 4.3.1 used) with the following packages:
 ### Maple Worksheets
 
 Maple (version 2021 used) with the following package:
-- `SIAN` [version 1.6](https://github.com/pogudingleb/SIAN)
+- `SIAN` (Structural Identifiability ANalyzer) [version 1.6](https://github.com/pogudingleb/SIAN/releases/tag/v1.6)
 
 ## Known Issues
 
